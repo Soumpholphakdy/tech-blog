@@ -6,7 +6,7 @@ This is a tech-blog will allow users to input their thoughts into a blog and com
 
 ## Deployment
 
-
+https://peaceful-badlands-53740.herokuapp.com/
 
 ## Technologies
 
